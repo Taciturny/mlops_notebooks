@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/USER/Desktop/Supplementary%20Data/MLOPs/02-experiment-tracking/mlruns/429164464504974560/23ce5643c58046c68f4550de2e217acc/artifacts
+deleted_time: 1685200267601
+end_time: 1685198209098
+entry_point_name: ''
+experiment_id: '429164464504974560'
+lifecycle_stage: deleted
+run_id: 23ce5643c58046c68f4550de2e217acc
+run_name: blushing-hawk-912
+run_uuid: 23ce5643c58046c68f4550de2e217acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685198138556
+status: 3
+tags: []
+user_id: USER

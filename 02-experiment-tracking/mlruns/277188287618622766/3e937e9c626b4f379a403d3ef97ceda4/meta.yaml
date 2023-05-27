@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277188287618622766/3e937e9c626b4f379a403d3ef97ceda4/artifacts
+end_time: 1685201844459
+entry_point_name: ''
+experiment_id: '277188287618622766'
+lifecycle_stage: active
+run_id: 3e937e9c626b4f379a403d3ef97ceda4
+run_name: blushing-mouse-419
+run_uuid: 3e937e9c626b4f379a403d3ef97ceda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685201735831
+status: 3
+tags: []
+user_id: USER

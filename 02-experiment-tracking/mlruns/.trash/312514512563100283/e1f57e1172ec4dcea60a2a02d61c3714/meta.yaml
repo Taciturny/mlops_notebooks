@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/312514512563100283/e1f57e1172ec4dcea60a2a02d61c3714/artifacts
+deleted_time: 1685201491806
+end_time: 1685201118886
+entry_point_name: ''
+experiment_id: '312514512563100283'
+lifecycle_stage: deleted
+run_id: e1f57e1172ec4dcea60a2a02d61c3714
+run_name: handsome-squid-232
+run_uuid: e1f57e1172ec4dcea60a2a02d61c3714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685201038001
+status: 3
+tags: []
+user_id: USER

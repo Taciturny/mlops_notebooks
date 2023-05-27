@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/USER/Desktop/Supplementary%20Data/MLOPs/02-experiment-tracking/mlruns/429164464504974560
+creation_time: 1685198133731
+experiment_id: '429164464504974560'
+last_update_time: 1685200267601
+lifecycle_stage: deleted
+name: Random-forest-experiment
+tags: {}

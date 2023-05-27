@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/262873913031720512/5173fbb78b9f4f98a2f28ca782dff7e7/artifacts
+end_time: 1685200173806
+entry_point_name: ''
+experiment_id: '262873913031720512'
+lifecycle_stage: active
+run_id: 5173fbb78b9f4f98a2f28ca782dff7e7
+run_name: fortunate-crane-739
+run_uuid: 5173fbb78b9f4f98a2f28ca782dff7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685200168874
+status: 3
+tags: []
+user_id: USER

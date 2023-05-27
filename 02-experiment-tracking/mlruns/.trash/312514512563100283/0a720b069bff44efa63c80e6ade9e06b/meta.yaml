@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/312514512563100283/0a720b069bff44efa63c80e6ade9e06b/artifacts
+deleted_time: 1685201491806
+end_time: 1685200952496
+entry_point_name: ''
+experiment_id: '312514512563100283'
+lifecycle_stage: deleted
+run_id: 0a720b069bff44efa63c80e6ade9e06b
+run_name: rogue-loon-82
+run_uuid: 0a720b069bff44efa63c80e6ade9e06b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685200844771
+status: 3
+tags: []
+user_id: USER
